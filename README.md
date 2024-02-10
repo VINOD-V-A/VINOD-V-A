@@ -35,7 +35,7 @@ Here are a few highlighted projects I've worked on:
 
 1. **Project Name**: Brief description.
    ![Project Image](link_to_image)
-   - [GitHub Repo](link_to_repo)
+   - [GitHub Repo](https://github.com/VINOD-V-A/Kivy-Calculator-App)
    - [Live Demo](link_to_demo)
 
 2. **Project Name**: Brief description.
